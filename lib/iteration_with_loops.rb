@@ -13,5 +13,5 @@ def join_nested_strings(src)
     end
     count +=1
   end
-  new_array.join("")
+  new_array.join(" ")
 end
